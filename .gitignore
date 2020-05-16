@@ -1,0 +1,9 @@
+venv/
+
+*.png
+*.pyc
+
+# Temporary files
+*~
+*.swp
+.DS_Store
