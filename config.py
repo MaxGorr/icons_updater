@@ -1,4 +1,4 @@
-"""Configuation class for icons updating."""
+"""Configuration class for icons updating."""
 
 import os
 from configparser import ConfigParser
@@ -10,7 +10,7 @@ _SOURCES_NAME = 'src'
 
 
 class Config:
-    """Config for ImageMagick class."""
+    """Configuration class."""
 
     def __init__(self, config_file=None, src=None, dst=None):
         """Constructor."""

@@ -42,7 +42,7 @@ def _main():
         '--config', '-c',
         help='Configuration file')
     parser.add_argument(
-        '--destionation', '-d',
+        '--destination', '-d',
         help='Destination folder')
     parser.add_argument(
         '--source', '-s',
